@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.1">
+<file original="self" source-language="en" product-name="@@7200aaeb695643440ad6c25cc6c40d5bDtSimpleType:Char25[com.dolphin_crop.model.details.types]" datatype="s2x">
+<header>
+<skl>
+</skl>
+<phase-group>
+</phase-group>
+<s2x xmlns="http://www.sap.com">
+<dtr>
+<sc></sc>
+</dtr>
+<giltDirectives>
+<develContact>bobu.putheeckal</develContact><domain></domain>
+<originalLocale xml:lang="en"/>
+<maxLength>255</maxLength>
+</giltDirectives>
+<state phase-name="" process-name="">started</state>
+</s2x>
+</header>
+<body>
+<group restype="tableColumnHeading">
+<trans-unit id="494fc5f2fe38456e3beef75ae2b48a00" resname="Texts@columnLabel" maxwidth="255" translate="no"><source>Field</source><s2x xmlns="http://www.sap.com"><textState>modified</textState><recommendedLength chars="-1"/></s2x></trans-unit>
+</group>
+<group restype="technicaltextlong">
+<trans-unit id="39d0a0483eb64cc92afa851ed65f5099" resname="Texts@description" maxwidth="255" translate="no"><source>User field for cluster PC (national)</source><s2x xmlns="http://www.sap.com"><textState>modified</textState><recommendedLength chars="-1"/></s2x></trans-unit>
+</group>
+<group restype="label">
+<trans-unit id="0a8a985941f54d692efa846f8f505350" resname="Texts@fieldLabel" maxwidth="255" translate="no"><source>Field</source><s2x xmlns="http://www.sap.com"><textState>modified</textState><recommendedLength chars="-1"/></s2x></trans-unit>
+</group>
+<group restype="quickInfo">
+<trans-unit id="351d9bf9d9374e0d35db8d7cacdb45ef" resname="Texts@quickInfo" maxwidth="255" translate="no"><source>User field for cluster PC (national)</source><s2x xmlns="http://www.sap.com"><textState>modified</textState><recommendedLength chars="-1"/></s2x></trans-unit>
+</group>
+</body>
+</file>
+</xliff>
