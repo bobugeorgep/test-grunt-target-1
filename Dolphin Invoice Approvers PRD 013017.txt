@@ -1,2 +1,0 @@
-status,loginName,mail,firstName,lastName,validFrom,validTo,spCustomAttribute1,groups
-active,RAINEYJA,JARAINEY@COLLIERGOV.NET,JENNIFER,RAINEY,20170128120000Z,20170901120000Z,,ptsap_collier
